@@ -1,4 +1,3 @@
-import Calculator;
 public class Runner {
     Calculator calculator = new Calculator();
     double firstNumber;
